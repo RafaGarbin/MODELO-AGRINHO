@@ -11,12 +11,22 @@ header {
     padding: 2rem;
     text-align: center;
 }
+header h1{
+    color: white;
+   
+}
 
+header p{
+    color:pink;
+   
+}
 .imagem img {
+    
     width: 100%;
     height: auto;
     display: block;
 }
+
 
 .tema {
     padding: 2rem;
@@ -31,7 +41,10 @@ header {
     margin-top: 1.5rem;
 }
 
-
+.tema p {
+    color:yellow;
+    margin-top: 1.5rem;
+}
 
 footer {
     background-color: black;
