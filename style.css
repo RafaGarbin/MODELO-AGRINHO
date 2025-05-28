@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: green;
+}
+
+header {
+    background-color: green;
+    color: white;
+    padding: 2rem;
+    text-align: center;
+}
+
+.imagem img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+.tema {
+    padding: 2rem;
+    background-color: blue;
+    max-width: 800px;
+    margin: 2rem auto;
+    
+}
+
+.tema h2 {
+    color:red;
+    margin-top: 1.5rem;
+}
+
+
+
+footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 1rem;
+    margin-top: 2rem;
+}
